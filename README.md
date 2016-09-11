@@ -19,3 +19,8 @@ meng
 
 （前端工程师进阶）
 React，React Native与Redux架构项目实战(Redux架构详解，Webpack打包，Javascript最新规范ES6，Flex布局)
+
+Redux架构 实现原理与函数式编程
+//1、TodoList Redux 源码
+2、Redux实现
+3、相关知识（函数式编程，ES6，assign()，key()）
